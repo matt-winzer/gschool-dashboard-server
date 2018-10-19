@@ -16,5 +16,11 @@
   "bugs": {
     "url": "https://github.com/matt-winzer/gschool-dashboard-server/issues"
   },
-  "homepage": "https://github.com/matt-winzer/gschool-dashboard-server#readme"
+  "homepage": "https://github.com/matt-winzer/gschool-dashboard-server#readme",
+  "dependencies": {
+    "body-parser": "^1.18.3",
+    "cors": "^2.8.4",
+    "express": "^4.16.4",
+    "morgan": "^1.9.1"
+  }
 }
